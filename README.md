@@ -1,6 +1,7 @@
 # Email sending MCP 💌
 
 [![smithery badge](https://smithery.ai/badge/@resend/mcp-send-email)](https://smithery.ai/server/@resend/mcp-send-email)
+[![smithery badge](https://smithery.ai/badge/@resend/mcp-send-email)](https://smithery.ai/server/@resend/mcp-send-email)
 
 This is a simple MCP server that sends emails using Resend's API. Why? Now you can let Cursor or Claude Desktop compose emails for you and send it right away without having to copy and paste the email content.
 
